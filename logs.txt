@@ -1,0 +1,3 @@
+["y", {"name": "<b'name> in response to: y'", "animal": "<b'animal> in response to: y'", "place": "<b'place> in response to: y'", "thing": "<b'thing> in response to: y'"}]
+["x", {"name": "<b'name> in response to: x'", "animal": "<b'animal> in response to: x'", "place": "<b'place> in response to: x'", "thing": "<b'thing> in response to: x'"}]
+["q", {"name": "<b'name> in response to: q'", "animal": "<b'animal> in response to: q'", "place": "<b'place> in response to: q'", "thing": "<b'thing> in response to: q'"}]

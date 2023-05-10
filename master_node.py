@@ -36,8 +36,8 @@ if __name__ == "__main__":
             print(f"Received: {format(received)}")
             data[id] = str(received)
 
-        with open('logs', "+a", encoding="utf-8") as f:
-            f.write(json.dumps([code, data]) + "\n")
+        with open('logs.txt', "+a", encoding="utf-8") as f:
+            f.write(json.dumps([chr(code), data]) + "\n")
 
         # send codes after every 2 seconds 
         time.sleep(2)
